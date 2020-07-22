@@ -1,6 +1,8 @@
 # Graphql-pi Framework
 <!-- [START badges] -->
 [![NPM graphql-pi package](https://img.shields.io/npm/v/graphql-pi.svg)](https://npmjs.org/package/graphql-pi)
+[![npm downloads](https://img.shields.io/npm/dm/graphql-pi.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=graphql-pi&from=2017-01-1)
+[![npm downloads](https://img.shields.io/npm/dt/graphql-pi.svg?maxAge=604800)](https://npm-stat.com/charts.html?package=graphql-pi&from=2017-01-1)
 <!-- [END badges] -->
 graphql play instance is project that will serve as the basis for the API.projects
 
