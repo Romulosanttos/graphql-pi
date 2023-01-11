@@ -31,7 +31,7 @@
     "graphql-upload": "^10.0.0",
     "jsonwebtoken": "^8.5.1",
     "juice": "^6.0.0",
-    "knex": "^0.21.1",
+    "knex": "^2.4.0",
     "knex-hooks": "0.0.8",
     "memcached": "^2.2.2",
     "mongodb": "^3.5.7",
